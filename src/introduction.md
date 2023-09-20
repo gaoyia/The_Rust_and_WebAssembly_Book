@@ -1,6 +1,6 @@
 # Rust 🦀 and WebAssembly 🕸
 
-这是一本介绍如何使用 [Rust][] 开发 [WebAssembly][] 的书.
+这是一本介绍如何使用 [Rust][Rust] 开发 [WebAssembly][WebAssembly] 的书.
 
 ## 谁适合阅读本书
 
@@ -16,7 +16,7 @@
 
 你应该阅读[为什么使用 Rust 开发 WebAssembly][why-rust-wasm], 以及优先了解他们 [背景和概念][background].
 
-你应独立从头到尾按顺序阅读该 [指导教程][] 并遵循教程的代码，编写编译和运行。如果您还没有使用 Rust 和 WebAssembly ，请先完成教程！
+你应独立从头到尾按顺序阅读该 [指导教程][tutorial] 并遵循教程的代码，编写编译和运行。如果您还没有使用 Rust 和 WebAssembly ，请先完成教程！
 
 您可以根据需要查阅 [参考章节][reference]。
 
@@ -26,7 +26,9 @@
 ## 为本书提供贡献
 
 本书是开源的! 如果你找到本书的错误请给我们提交pull request!
+
 [**Send us a pull request!**][repo]
+
 [**给我们发送一个pull request!（中文翻译）**][repo_zh-cn]
 
 [Rust]: https://www.rust-lang.org
