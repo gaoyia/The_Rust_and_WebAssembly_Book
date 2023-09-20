@@ -1,36 +1,33 @@
 # Rust 🦀 and WebAssembly 🕸
 
-This small book describes how to use [Rust][] and [WebAssembly][] together.
+这是一本介绍如何使用 [Rust][] 开发 [WebAssembly][] 的书.
 
-## Who is this book for?
+## 谁适合阅读本书
 
-This book is for anyone interested in compiling Rust to WebAssembly for fast,
-reliable code on the Web. You should know some Rust, and be familiar with
-JavaScript, HTML, and CSS. You don't need to be an expert in any of them.
+本书适合任何对使用Rust开发WebAssembly的Web应用编写快速可靠的代码而感兴趣的人，
+你需要懂一点Rust开发，以及熟悉JavaScript、HTML和CSS。但你并不需要精通它们。
 
-Don't know Rust yet? [Start with *The Rust Programming Language* first.][trpl]
 
-Don't know JavaScript, HTML, or CSS? [Learn about them on MDN.][mdn]
+如果你还不太懂Rust开发，可以先点击这里 [学习 *Rust 编程语言* ][trpl]
 
-## How to read this book
+如果你想学习 JavaScript, HTML, or CSS? [可以在 MDN. 上找到相关学习资源][mdn]
 
-You should read [the motivation for using Rust and WebAssembly
-together][why-rust-wasm], as well as familiarize yourself with the [background
-and concepts][background] first.
+## 如何阅读这本书
 
-The [tutorial][] is written to be read from start to finish. You should follow
-along: writing, compiling, and running the tutorial's code yourself. If you
-haven't used Rust and WebAssembly together before, do the tutorial!
+你应该阅读[为什么使用 Rust 开发 WebAssembly][why-rust-wasm], 以及优先了解他们 [背景和概念][background].
 
-The [reference sections][reference] may be perused in any order.
+你应独立从头到尾按顺序阅读该 [指导教程][] 并遵循教程的代码，编写编译和运行。如果您还没有使用 Rust 和 WebAssembly ，请先完成教程！
 
-> **💡 Tip:** You can search through this book by clicking on the 🔍 icon at the
-> top of the page, or by pressing the `s` key.
+您可以根据需要查阅 [参考章节][reference]。
 
-## Contributing to this book
+> **💡 提示:** 你可以点击 🔍 图标 或按`s`键搜索本书
 
-This book is open source! Find a typo? Did we overlook something? [**Send us a
-pull request!**][repo]
+
+## 为本书提供贡献
+
+本书是开源的! 如果你找到本书的错误请给我们提交pull request!
+[**Send us a pull request!**][repo]
+[**给我们发送一个pull request!（中文翻译）**][repo_zh-cn]
 
 [Rust]: https://www.rust-lang.org
 [WebAssembly]: https://webassembly.org/
@@ -41,3 +38,4 @@ pull request!**][repo]
 [tutorial]: ./game-of-life/introduction.html
 [reference]: ./reference/index.html
 [repo]: https://github.com/rustwasm/book
+[repo_zh-cn]: https://github.com/gaoyia/The_Rust_and_WebAssembly_Book
